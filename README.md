@@ -11,4 +11,4 @@ Python • Pandas • NumPy • Matplotlib • Power BI • SQL • HTML • CSS
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/divyani-yadav-7b3560389?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-- Email: your.divyaaydav16@gmail.com
+- Email: divyaayadav16@gmail.com
